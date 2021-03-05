@@ -1,0 +1,11 @@
+html, body {
+    background-color:#121212;
+}
+.container {
+    box-sizing: border-box;
+    padding:20px;
+    margin:30px auto;
+    width: 600px;
+    min-height: 400px;
+    background-color: #cecece;
+}
